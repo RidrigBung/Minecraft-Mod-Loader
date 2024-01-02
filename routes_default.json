@@ -1,0 +1,6 @@
+{
+    "routes": 
+    {
+        "minecraft_folder": "%appdata%\\.minecraft\\"
+    }
+}
